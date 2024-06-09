@@ -10,3 +10,6 @@ Create a .streamlit folder in the root folder and make a secrets.toml file insid
 
 ## Run streamlit in terminal
 ```streamlit run app.py```
+
+## Chatbot is privately hosted on Streamlit
+[https://enquire.streamlit.app/]
